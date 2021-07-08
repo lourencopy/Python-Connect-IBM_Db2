@@ -1,6 +1,8 @@
 import ibm_db
 #import ibm_db_sa
 
+print("Primeiro teste de sincronização com GitHub")
+
 dsn = "DATABASE=BLUDB;HOSTNAME=dashdb-txn-sbox-yp-dal09-14.services.dal.bluemix.net;PORT=50000;PROTOCOL=TCPIP;UID=cbp19550;PWD=vznz2f@5k44c0rq8;"
 dsn_database = "BLUDB"
 dsn_drive = "{IBM DB2 ODBC DRIVE}"
